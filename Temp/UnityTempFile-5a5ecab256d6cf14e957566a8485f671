@@ -1,0 +1,319 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-unsafe
+-optimize
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.CoreModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.AccessibilityModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.ParticleSystemModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.PhysicsModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.VehiclesModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.ClothModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.AIModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.AnimationModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.TextRenderingModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UIModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.IMGUIModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UNETModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.DirectorModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UnityConnectModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.WebModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.ARModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.VRModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UIElementsModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.StyleSheetsModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.AssetBundleModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.AudioModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.CrashReportingModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.GameCenterModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.GridModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.ImageConversionModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.InputModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.JSONSerializeModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.ParticlesLegacyModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.Physics2DModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.SharedInternalsModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.SpriteMaskModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.SpriteShapeModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.TerrainModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.TilemapModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.VideoModule.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\PlaybackEngines\PSP2Player/Managed/UnityEngine.WindModule.dll"
+-r:"C:/Users/james/Downloads/Unity Vita SDK/Unity 2017/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll"
+-r:"C:/Users/james/Downloads/Unity Vita SDK/Unity 2017/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll"
+-r:"C:/Users/james/Downloads/Unity Vita SDK/Unity 2017/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2017_4_2
+-define:UNITY_2017_4
+-define:UNITY_2017
+-define:ENABLE_AUDIO
+-define:ENABLE_CLOTH
+-define:ENABLE_GENERICS
+-define:ENABLE_PVR_GI
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_GRID
+-define:ENABLE_TILEMAP
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_DIRECTOR
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_TIMELINE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_NATIVE_ARRAY
+-define:ENABLE_SPRITE_MASKING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:ENABLE_MONO_BDWGC
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_RMGUI
+-define:ENABLE_PACKMAN
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_STYLE_SHEETS
+-define:ENABLE_LOCALIZATION
+-define:PLATFORM_PSVITA
+-define:UNITY_PSP2
+-define:UNITY_PSP2_API
+-define:UNITY_GFX_USE_PLATFORM_VSYNC
+-define:ENABLE_AUDIO_MANAGER_BASED_SCHEDULING
+-define:ENABLE_MICROPHONE
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_NETWORK
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_LOG_MIXED_STACKTRACE
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_MONO
+-define:NET_2_0_SUBSET
+-define:UNITY_PRO_LICENSE
+Assets/Scripts/Assembly-CSharp/AdBuddizExample.cs
+Assets/Scripts/Assembly-CSharp/EpicCitadelControl.cs
+Assets/Scripts/Assembly-CSharp/Finger.cs
+Assets/Scripts/Assembly-CSharp/FingerManager.cs
+Assets/Scripts/Assembly-CSharp/GUITextureCollider.cs
+Assets/Scripts/Assembly-CSharp/Joystick2.cs
+Assets/Scripts/Assembly-CSharp/OffsetFlashlight.cs
+Assets/Scripts/Assembly-CSharp/Properties/AssemblyInfo.cs
+Assets/Scripts/Assembly-CSharp/RewardSys.cs
+Assets/Scripts/Assembly-CSharp/ShowRewardedVideo.cs
+Assets/Scripts/Assembly-CSharp/ShowRewVideo.cs
+Assets/Scripts/Assembly-CSharp/StartAds.cs
+Assets/Scripts/Assembly-CSharp/StartTheApp.cs
+Assets/Scripts/Assembly-CSharp/SwipeDetector.cs
+Assets/Scripts/Assembly-CSharp/SwipeRotationPlayer.cs
+Assets/Scripts/Assembly-CSharp/TouchLogic.cs
+Assets/Scripts/Assembly-CSharp/UnityAdsExample.cs
+Assets/Scripts/Assembly-CSharp/UnityAdsHelper.cs
+Assets/Scripts/Assembly-UnityScript/BetweenScenesValues.cs
+Assets/Scripts/Assembly-UnityScript/Boundary.cs
+Assets/Scripts/Assembly-UnityScript/CameraRelativeControl.cs
+Assets/Scripts/Assembly-UnityScript/Cellar1LevelsButton.cs
+Assets/Scripts/Assembly-UnityScript/Cellar2LevelButton.cs
+Assets/Scripts/Assembly-UnityScript/Cellar3LevelButton.cs
+Assets/Scripts/Assembly-UnityScript/ChangeScene.cs
+Assets/Scripts/Assembly-UnityScript/checkOngoing.cs
+Assets/Scripts/Assembly-UnityScript/ClickBackButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickBackButton2.cs
+Assets/Scripts/Assembly-UnityScript/ClickBackButton3.cs
+Assets/Scripts/Assembly-UnityScript/ClickCancelButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickEasyButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickHardButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickHelpButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickMediumButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickNoButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickOK.cs
+Assets/Scripts/Assembly-UnityScript/ClickOkButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickOkQuitButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickPlayButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickStcPointButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickVideoButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickWarehouseButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickYesButton.cs
+Assets/Scripts/Assembly-UnityScript/ClickYesButton2.cs
+Assets/Scripts/Assembly-UnityScript/CloseOptionMenu.cs
+Assets/Scripts/Assembly-UnityScript/CloseRewardMenu.cs
+Assets/Scripts/Assembly-UnityScript/CloseStcPointMenu.cs
+Assets/Scripts/Assembly-UnityScript/CloseYouDoNotHaveEnoughPointsMenu.cs
+Assets/Scripts/Assembly-UnityScript/CollectPapers.cs
+Assets/Scripts/Assembly-UnityScript/CombineMesh.cs
+Assets/Scripts/Assembly-UnityScript/CombineMesh2.cs
+Assets/Scripts/Assembly-UnityScript/ConstraintAxis.cs
+Assets/Scripts/Assembly-UnityScript/ControlsSensitivityHigh.cs
+Assets/Scripts/Assembly-UnityScript/ControlsSensitivityLow.cs
+Assets/Scripts/Assembly-UnityScript/ControlsSensitivityMedium.cs
+Assets/Scripts/Assembly-UnityScript/ControlState.cs
+Assets/Scripts/Assembly-UnityScript/Counter.cs
+Assets/Scripts/Assembly-UnityScript/CountKey.cs
+Assets/Scripts/Assembly-UnityScript/DatorTriggerScript.cs
+Assets/Scripts/Assembly-UnityScript/DestroyCrawlSlendrina.cs
+Assets/Scripts/Assembly-UnityScript/DestroyGate.cs
+Assets/Scripts/Assembly-UnityScript/DestroyHead.cs
+Assets/Scripts/Assembly-UnityScript/DoorOpenClosed.cs
+Assets/Scripts/Assembly-UnityScript/DownloadLink.cs
+Assets/Scripts/Assembly-UnityScript/FaceScareTrigger.cs
+Assets/Scripts/Assembly-UnityScript/FadeGuiTexture.cs
+Assets/Scripts/Assembly-UnityScript/FadeToBlack.cs
+Assets/Scripts/Assembly-UnityScript/findcollideparticles.cs
+Assets/Scripts/Assembly-UnityScript/FirstPersonControl.cs
+Assets/Scripts/Assembly-UnityScript/FlashlightBasicFlicker.cs
+Assets/Scripts/Assembly-UnityScript/FlashlightOff.cs
+Assets/Scripts/Assembly-UnityScript/FlyingHink.cs
+Assets/Scripts/Assembly-UnityScript/FollowTransform.cs
+Assets/Scripts/Assembly-UnityScript/Footsteps.cs
+Assets/Scripts/Assembly-UnityScript/FootStepScript2.cs
+Assets/Scripts/Assembly-UnityScript/FPS.cs
+Assets/Scripts/Assembly-UnityScript/FPScontroller.cs
+Assets/Scripts/Assembly-UnityScript/FPSControllerNEW.cs
+Assets/Scripts/Assembly-UnityScript/GardeDoorOpen.cs
+Assets/Scripts/Assembly-UnityScript/GardeDoorOpenSlendrina.cs
+Assets/Scripts/Assembly-UnityScript/GateIsClosedText.cs
+Assets/Scripts/Assembly-UnityScript/GirlSee.cs
+Assets/Scripts/Assembly-UnityScript/HeadTavlaTrigger.cs
+Assets/Scripts/Assembly-UnityScript/HeartBeat.cs
+Assets/Scripts/Assembly-UnityScript/HeartBeatnumber.cs
+Assets/Scripts/Assembly-UnityScript/HorrorGirl.cs
+Assets/Scripts/Assembly-UnityScript/Joystick.cs
+Assets/Scripts/Assembly-UnityScript/JoystickNy.cs
+Assets/Scripts/Assembly-UnityScript/JoystickTillf.cs
+Assets/Scripts/Assembly-UnityScript/loseMenuState.cs
+Assets/Scripts/Assembly-UnityScript/MainCamera.cs
+Assets/Scripts/Assembly-UnityScript/MenuButtonSounds.cs
+Assets/Scripts/Assembly-UnityScript/MenuMouseLookScript.cs
+Assets/Scripts/Assembly-UnityScript/MenuSounds.cs
+Assets/Scripts/Assembly-UnityScript/mouseSensitivitySlider.cs
+Assets/Scripts/Assembly-UnityScript/MusicManager.cs
+Assets/Scripts/Assembly-UnityScript/NewGameLink.cs
+Assets/Scripts/Assembly-UnityScript/NPC.cs
+Assets/Scripts/Assembly-UnityScript/NPCMovement.cs
+Assets/Scripts/Assembly-UnityScript/ObliqueNear.cs
+Assets/Scripts/Assembly-UnityScript/OpenDoor.cs
+Assets/Scripts/Assembly-UnityScript/OptionButton.cs
+Assets/Scripts/Assembly-UnityScript/OptionMenuButtonMinus.cs
+Assets/Scripts/Assembly-UnityScript/OptionMenuButtonPluss.cs
+Assets/Scripts/Assembly-UnityScript/PickUpKey.cs
+Assets/Scripts/Assembly-UnityScript/PickUpObject.cs
+Assets/Scripts/Assembly-UnityScript/PlayBackgroundSound.cs
+Assets/Scripts/Assembly-UnityScript/PlayerClampToWorld.cs
+Assets/Scripts/Assembly-UnityScript/PlayerCollSlendrina.cs
+Assets/Scripts/Assembly-UnityScript/PlayerHealth.cs
+Assets/Scripts/Assembly-UnityScript/PlayerHealthOwn.cs
+Assets/Scripts/Assembly-UnityScript/PlayerRelativeControl.cs
+Assets/Scripts/Assembly-UnityScript/PlayerRunAndFootsteps.cs
+Assets/Scripts/Assembly-UnityScript/PlayGirlHangRope.cs
+Assets/Scripts/Assembly-UnityScript/PlayMusic.cs
+Assets/Scripts/Assembly-UnityScript/PlaySounds.cs
+Assets/Scripts/Assembly-UnityScript/Pointscore.cs
+Assets/Scripts/Assembly-UnityScript/PressBackButton.cs
+Assets/Scripts/Assembly-UnityScript/Properties/AssemblyInfo.cs
+Assets/Scripts/Assembly-UnityScript/QuitApplication.cs
+Assets/Scripts/Assembly-UnityScript/RandomFaceScare.cs
+Assets/Scripts/Assembly-UnityScript/RandomObjectPlace.cs
+Assets/Scripts/Assembly-UnityScript/RandomSlendrinaFly.cs
+Assets/Scripts/Assembly-UnityScript/RandomTriggerPlace.cs
+Assets/Scripts/Assembly-UnityScript/RewardMenuStart.cs
+Assets/Scripts/Assembly-UnityScript/RollABall.cs
+Assets/Scripts/Assembly-UnityScript/rotater.cs
+Assets/Scripts/Assembly-UnityScript/RotationConstraint.cs
+Assets/Scripts/Assembly-UnityScript/SafeFallScript.cs
+Assets/Scripts/Assembly-UnityScript/SaveSensitivityData.cs
+Assets/Scripts/Assembly-UnityScript/SceneLoseEffect.cs
+Assets/Scripts/Assembly-UnityScript/ScreamSound.cs
+Assets/Scripts/Assembly-UnityScript/seeDoors.cs
+Assets/Scripts/Assembly-UnityScript/SensitivityController.cs
+Assets/Scripts/Assembly-UnityScript/SensitivitySlider.cs
+Assets/Scripts/Assembly-UnityScript/SidescrollControl.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaArm.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaCrawlAttackEnd.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaCrawlTrigger.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaDoor.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaDownFloor.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaEndScript.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaStandScript.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaStartScript.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaStopScript.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaTriggerScript.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaUpperFloor.cs
+Assets/Scripts/Assembly-UnityScript/SlendrinaWalk.cs
+Assets/Scripts/Assembly-UnityScript/SmoothFollow2D.cs
+Assets/Scripts/Assembly-UnityScript/soundEffects.cs
+Assets/Scripts/Assembly-UnityScript/SoundTriggerScream.cs
+Assets/Scripts/Assembly-UnityScript/StartDifficultyMenu.cs
+Assets/Scripts/Assembly-UnityScript/StartScenes.cs
+Assets/Scripts/Assembly-UnityScript/StopAllSound.cs
+Assets/Scripts/Assembly-UnityScript/SwipeScript.cs
+Assets/Scripts/Assembly-UnityScript/tapcontrol.cs
+Assets/Scripts/Assembly-UnityScript/TestControls.cs
+Assets/Scripts/Assembly-UnityScript/TestFingerTouches.cs
+Assets/Scripts/Assembly-UnityScript/textCrawl.cs
+Assets/Scripts/Assembly-UnityScript/TextSizeHolder.cs
+Assets/Scripts/Assembly-UnityScript/TriggerBang.cs
+Assets/Scripts/Assembly-UnityScript/TriggerCrawlMan.cs
+Assets/Scripts/Assembly-UnityScript/TriggerCrawlSlendrina.cs
+Assets/Scripts/Assembly-UnityScript/TriggerDestroyer.cs
+Assets/Scripts/Assembly-UnityScript/TriggerDoorSlam.cs
+Assets/Scripts/Assembly-UnityScript/WalkScript.cs
+Assets/Scripts/Assembly-UnityScript/WebLink.cs
+Assets/Scripts/Assembly-UnityScript/WhatLevel.cs
+Assets/Scripts/Assembly-UnityScript/WhatLevelIsVald.cs
+Assets/Scripts/Assembly-UnityScript/WhenSceenStart.cs
+Assets/Scripts/Assembly-UnityScript/YouWinSound.cs
+Assets/Scripts/Assembly-UnityScript/ZoomCamera.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/CharacterMotor.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/CharacterMotorJumping.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/CharacterMotorMovement.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/CharacterMotorMovingPlatform.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/CharacterMotorSliding.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/CharacterState.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/FPSInputController.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/MovementTransferOnJump.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/PlatformInputController.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/Properties/AssemblyInfo.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/ThirdPersonCamera.cs
+Assets/Scripts/Assembly-UnityScript-firstpass/ThirdPersonController.cs
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\Mono\lib\mono\unity\UnityScript.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\Mono\lib\mono\unity\UnityScript.Lang.dll"
+-r:"C:\Users\james\Downloads\Unity Vita SDK\Unity 2017\Editor\Data\Mono\lib\mono\unity\Boo.Lang.dll"
+-sdk:unity

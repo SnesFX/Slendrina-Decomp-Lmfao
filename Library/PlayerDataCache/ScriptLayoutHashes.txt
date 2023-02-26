@@ -1,6 +1,6 @@
 PSP2
 PlayerPath?
-C:/Users/james/Downloads/Ports/Slendrina The Cellar Vita v1
+C:/Users/james/Downloads/Ports/Slendrina The Cellar Vita Debug Build
 SceneListBegin?
 Assets/1Scenes/Menu.unity
 Assets/1Scenes/Level1.unity

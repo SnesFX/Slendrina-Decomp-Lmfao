@@ -8,6 +8,9 @@
 
 * Vs Code
 
+# Current Bugs
+
+* PsVita Input Not working - I am actively working on it as this commit is being made
 
 # Credits
 

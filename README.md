@@ -1,16 +1,12 @@
 # Slendrina-Decomp-Lmfao
  
- A decomp and PSVita port of Slendrina The Cellar
+ A decomp of Slendrina The Cellar
 
 # Requirements (To Build)
 
-* Unity 2017 with PsVita Build Support
+* Unity 2017
 
 * Vs Code
-
-# Current Bugs
-
-* PsVita Input Not working - I am actively working on it as this commit is being made
 
 # Credits
 

@@ -10,7 +10,7 @@
 
 # Credits
 
-* [SnesFX/TyDev](https://twitter.com/snesfx) - The decomp and unofficial PsVita Port
+* [SnesFX/TyDev](https://twitter.com/snesfx) - The decomp
 
 * [DVloper](https://twitter.com/_DVapps_) - The original game!
 
